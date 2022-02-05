@@ -31,7 +31,8 @@ And here is how you can use it
 
 1. Click on any object that has Mesh Filter & Mesh Renderer in your scene  \
 
-![alt_text](images/image1.png "image_tooltip")
+
+![alt_text](https://drive.google.com/file/d/1NJL9LQh1uHirLaqtQ7lF9Vd8lspJnuEd/view?usp=sharing)
 
 2. From the inspector Click on “Apply Shared Material” \
  \
