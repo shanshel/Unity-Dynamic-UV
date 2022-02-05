@@ -6,7 +6,9 @@
 
 <table>
   <tr>
-   <td><a href="#heading=h.2mcvygr6kyjq">Setup & How to use</a>
+   <td>
+     [Setup & How to use](#Setup & How to use)
+     <a href="#heading=h.2mcvygr6kyjq"></a>
    </td>
   </tr>
   <tr>
@@ -21,15 +23,17 @@
 
 
 
-# Setup & How to use
+#Setup & How to use
 
-Dynamic UV should work just fine once you import it. \
+Dynamic UV should work just fine once you import it. 
+\
  \
 And here is how you can use it 
 
 
 
-1. Click on any object that has Mesh Filter & Mesh Renderer in your scene  \
+1. Click on any object that has Mesh Filter & Mesh Renderer in your scene  
+\
 
 
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m1.jpg)
@@ -38,18 +42,21 @@ And here is how you can use it
 
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m2.jpg)
 
-3. New colors section will appear (The number of colors will depend on the model) \
+3. New colors section will appear (The number of colors will depend on the model) 
+\
 
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m3.jpg)
 
-4. Change the colors to whatever you like!  \
+4. Change the colors to whatever you like!  
+\
 
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m4.jpg)
 
 
 # Where to find assets that support Dynamic UV ?
 
-Currently, since the tool is new, and still in development \
+Currently, since the tool is new, and still in development 
+\
  \
 You can either 
 
@@ -57,7 +64,8 @@ You can either
 
 * Use our assets packs: All of our assets packs in the asset store have Dynamic UV support.
 * Easily adjust your custom model: you can adjust your own model to make it work with dynamic UV really easy. \
-[(Check the next section)](#heading=h.djnotzu7hxdv) \
+[(Check the next section)](#heading=h.djnotzu7hxdv) 
+\
 
 
 However, over time more developers and content creators will adopt this tool for their low-poly assets too.
@@ -74,7 +82,8 @@ And here is how:
 
 
 1. Open your model in blender
-2. Go to UV Editing Section \
+2. Go to UV Editing Section 
+\
 
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m5.jpg)
 
@@ -83,10 +92,6 @@ And here is how:
 
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m6.jpg)
 \
- \
- \
- \
- \
  \
  \
  \
