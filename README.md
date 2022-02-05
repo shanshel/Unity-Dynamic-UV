@@ -1,6 +1,6 @@
 # Dynamic UV
 
-https://youtu.be/A8AX3aQDVqM
+https://www.youtube.com/watch?v=A8AX3aQDVqM
 
 # Table of Content
 
