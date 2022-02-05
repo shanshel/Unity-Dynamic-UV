@@ -34,30 +34,8 @@ And here is how you can use it
 
 ![alt_text](https://drive.google.com/uc?export=view&id=1NJL9LQh1uHirLaqtQ7lF9Vd8lspJnuEd)
 
-2. From the inspector Click on “Apply Shared Material” \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
- \
+2. From the inspector Click on “Apply Shared Material” 
+![alt_text](https://drive.google.com/uc?export=view&id=12DIe_qnviLumALGzDSs0M9bMotTWrE4j)
 
 3. New colors section will appear (The number of colors will depend on the model) \
 
