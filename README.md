@@ -32,20 +32,19 @@ And here is how you can use it
 1. Click on any object that has Mesh Filter & Mesh Renderer in your scene  \
 
 
-![alt_text](https://drive.google.com/uc?export=view&id=1NJL9LQh1uHirLaqtQ7lF9Vd8lspJnuEd)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m1.jpg)
 
 2. From the inspector Click on “Apply Shared Material” 
 
-![alt_text](https://drive.google.com/uc?export=view&id=12DIe_qnviLumALGzDSs0M9bMotTWrE4j)
-
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m2.jpg)
 
 3. New colors section will appear (The number of colors will depend on the model) \
 
-![alt_text](https://drive.google.com/uc?export=view&id=12DIe_qnviLumALGzDSs0M9bMotTWrE4j)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m3.jpg)
 
 4. Change the colors to whatever you like!  \
 
-![alt_text](https://drive.google.com/uc?export=view&id=1ijs5U1ZPtiU0bk-7b8ecESOzKn4HMBmm)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m4.jpg)
 
 
 # Where to find assets that support Dynamic UV ?
@@ -77,12 +76,12 @@ And here is how:
 1. Open your model in blender
 2. Go to UV Editing Section \
 
-![alt_text](https://drive.google.com/uc?export=view&id=1_0KiDnJMgTnefS6b_wMX-ldo9YHhMSq5)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m5.jpg)
 
 3. Now let’s say you want to implement **3 colors** in this model
 4. We should select the vertices that represent “Color 1” \
 
-![alt_text](https://drive.google.com/uc?export=view&id=1MYZTDhzI6iCUCHMPLvH7DzLbDoKjYzOi)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m6.jpg)
 \
  \
  \
@@ -95,12 +94,12 @@ And here is how:
 
 5. and then scale them down to 0, just like that  \
 
-![alt_text](https://drive.google.com/uc?export=view&id=1WkCLN0u20SpdOoZKp28wNuEpKopBZFfN)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m7.jpg)
 \
 (Notice the little yellow dot, it’s after scaling down all the Vertices that should have the same color to 0)
 6. Well, now do the same for other vertices too \
 
-![alt_text](https://drive.google.com/uc?export=view&id=1d-XEYBm20Gwg9aKIZyKyEFIrEIQJa5sx)
+![alt_text](https://shanshel.me/dynamicuv/readme_images/m8.jpg)
 \
 As you can see now we have 3 little dots, that means we will have 3 different color options in Dynamic UV \
 
