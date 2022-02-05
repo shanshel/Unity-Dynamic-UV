@@ -2,7 +2,7 @@
 
 Check this out on youtube!
 
-[![Dynamic UV](https://img.youtube.com/vi/A8AX3aQDVqM/0.jpg)](https://www.youtube.com/watch?v=A8AX3aQDVqM){:target="_blank" rel="noopener"}
+[![Dynamic UV](https://img.youtube.com/vi/A8AX3aQDVqM/0.jpg)](https://www.youtube.com/watch?v=A8AX3aQDVqM)
 
 
 
