@@ -5,9 +5,9 @@
 
 [Setup & How to use](#Setup-&-How-to-use)
 
-[Where to find assets that support Dynamic UV ?](#Setup-&-How-to-use)
+[Where to find assets that support Dynamic UV ?](#Where-to-find-assets-that-support-Dynamic-UV-?)
 
-[Make your own custom models work with Dynamic UV](#Setup-&-How-to-use)
+[Make your own custom models work with Dynamic UV](#How-to-Make-your-own-custom-models-work-with-dynamic-UV)
 
 
 
@@ -63,7 +63,7 @@ However, over time more developers and content creators will adopt this tool for
 So consider searching the store for the “Dynamic UV” tag to check if there are any awesome designers who have made use of our tool!
 
 
-# How to Make your own custom models work with dynamic UV 
+# How to Make your own custom models work with dynamic UV
 
 You can easily make your models work with dynamic UV
 
