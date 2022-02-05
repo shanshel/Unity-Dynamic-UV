@@ -7,7 +7,7 @@
 <table>
   <tr>
    <td>
-     [Setup & How to use](# Setup & How to use)
+     [Setup & How to use](#Setup-&-How-to-use)
      <a href="#heading=h.2mcvygr6kyjq"></a>
    </td>
   </tr>
