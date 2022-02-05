@@ -61,12 +61,11 @@ And here is how you can use it
 
 3. New colors section will appear (The number of colors will depend on the model) \
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](https://drive.google.com/uc?export=view&id=12DIe_qnviLumALGzDSs0M9bMotTWrE4j)
 
 4. Change the colors to whatever you like!  \
 
-![alt_text](images/image3.png "image_tooltip")
-
+![alt_text](https://drive.google.com/uc?export=view&id=1ijs5U1ZPtiU0bk-7b8ecESOzKn4HMBmm)
 
 
 # Where to find assets that support Dynamic UV ?
@@ -98,13 +97,13 @@ And here is how:
 1. Open your model in blender
 2. Go to UV Editing Section \
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](https://drive.google.com/uc?export=view&id=1_0KiDnJMgTnefS6b_wMX-ldo9YHhMSq5)
 
 3. Now let’s say you want to implement **3 colors** in this model
 4. We should select the vertices that represent “Color 1” \
 
-![alt_text](images/image5.png "image_tooltip")
-  \
+![alt_text](https://drive.google.com/uc?export=view&id=1MYZTDhzI6iCUCHMPLvH7DzLbDoKjYzOi)
+\
  \
  \
  \
@@ -116,13 +115,13 @@ And here is how:
 
 5. and then scale them down to 0, just like that  \
 
-![alt_text](images/image6.png "image_tooltip")
- \
+![alt_text](https://drive.google.com/uc?export=view&id=1WkCLN0u20SpdOoZKp28wNuEpKopBZFfN)
+\
 (Notice the little yellow dot, it’s after scaling down all the Vertices that should have the same color to 0)
 6. Well, now do the same for other vertices too \
 
-![alt_text](images/image7.png "image_tooltip")
- \
+![alt_text](https://drive.google.com/uc?export=view&id=1d-XEYBm20Gwg9aKIZyKyEFIrEIQJa5sx)
+\
 As you can see now we have 3 little dots, that means we will have 3 different color options in Dynamic UV \
 
 7. That’s it, save your model, import it, and it should work with Dynamic UV !
