@@ -5,7 +5,7 @@
 
 [Setup & How to use](#Setup-&-How-to-use)
 
-[Where to find assets that support Dynamic UV ?](#Where-to-find-assets-that-support-Dynamic-UV-?)
+[Where to find assets that support Dynamic UV ?](#Where-to-find-assets-that-support-Dynamic-UV)
 
 [Make your own custom models work with Dynamic UV](#How-to-Make-your-own-custom-models-work-with-dynamic-UV)
 
