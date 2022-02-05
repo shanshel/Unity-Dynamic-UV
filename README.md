@@ -1,25 +1,15 @@
 # Dynamic UV
 
-[Setup & How to use](#Setup-&-How-to-use)
+
 # Table of Content
 
+[Setup & How to use](#Setup-&-How-to-use)
 
-<table>
-  <tr>
-   <td>
-     [Setup & How to use](#Setup-&-How-to-use)
-     <a href="#heading=h.2mcvygr6kyjq"></a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="#heading=h.f9q27c8hv0fk">Where to find assets that support Dynamic UV ?</a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="#heading=h.djnotzu7hxdv">Make your own custom models work with Dynamic UV</a>
-   </td>
-  </tr>
-</table>
+[Where to find assets that support Dynamic UV ?](#Setup-&-How-to-use)
+
+[Make your own custom models work with Dynamic UV](#Setup-&-How-to-use)
+
+
 
 
 
