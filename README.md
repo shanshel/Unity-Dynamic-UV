@@ -43,7 +43,7 @@ And here is how you can use it
 ![alt_text](https://shanshel.me/dynamicuv/readme_images/m4.jpg)
 
 
-# Where to find assets that support Dynamic UV ?
+# Where to find assets that support Dynamic UV
 
 Currently, since the tool is new, and still in development 
 \
