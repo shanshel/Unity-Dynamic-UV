@@ -53,8 +53,8 @@ You can either
 
 
 * Use our assets packs: All of our assets packs in the asset store have Dynamic UV support.
-* Easily adjust your custom model: you can adjust your own model to make it work with dynamic UV really easy. \
-[(Check the next section)](#heading=h.djnotzu7hxdv) 
+* Easily adjust your custom model: you can adjust your own model to make it work with dynamic UV really easy. 
+\
 \
 
 
